@@ -1,2 +1,2 @@
-# Sistema-Bancario-com-Python.V3
-Modelando o [Sistema-Bancario-com-Python.V2](https://github.com/Marcosvini-cs/Sistema-Bancario-com-Python.V2) em POO.
+# Sistema-Bancario-com-Python
+Um sitema bancario em Python com as operações básicas de um banco.
